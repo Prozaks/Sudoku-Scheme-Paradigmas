@@ -1,0 +1,1 @@
+# Sudoku-Scheme-Paradigmas
